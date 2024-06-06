@@ -8,22 +8,11 @@
 </table>
 
 ----------------
-## Tampilan Logo
+## Langkah-Langkah Data Analisis
 <p align="center">
-<img src="https://i.ibb.co/Ps2bhfH/logo5.png" width="200px">
 </p>
 
-<h1 align="center">Aplikasi Kasir Restoran</h1>
-
-<span align="center">
-    
-![GitHub repo size](https://img.shields.io/github/repo-size/Arielanaskar/app_kasir_restoran)
-![GitHub last commit](https://img.shields.io/github/last-commit/Arielanaskar/app_kasir_restoran)
-    
-</span>
-
-<hr/>
-<br/>
+<h1 align="center">Data Analisis Perusahaan Industri Otomotif</h1>
 <h3>Langkah-Langkah Data Anasis:</h3>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
