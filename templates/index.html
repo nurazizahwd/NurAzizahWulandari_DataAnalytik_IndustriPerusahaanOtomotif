@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Data Visualization</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Visualisasi Data Mobil</h1>
+    
+    <h2>3D Scatter Plot Produksi vs Penjualan vs Persediaan</h2>
+    <div>{{ plot_div_3d | safe }}</div>
+
+    <h2>Bar Chart Penjualan Mobil per Merek</h2>
+    <div>{{ plot_div_bar | safe }}</div>
+
+    <h2>Pie Chart Persentase Penjualan Mobil per Merek</h2>
+    <div>{{ plot_div_pie | safe }}</div>
+</body>
+</html>
