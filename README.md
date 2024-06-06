@@ -21,8 +21,8 @@
 <h4>Pengumpulan Data:</h4>
     <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
     <li>Memastikan data yang dikumpulkan relevan dengan tujuan analisis.</li>
-  </ul>
-<h4>Pembersihan Data:</h4>
+</ul>
+  <h4>Pembersihan Data:</h4>
     <li>Membersihkan data dari kesalahan, duplikasi, dan inkonsistensi.</li>
     <li>Mengatasi data yang hilang dan memastikan data dalam format yang tepat.    </li>
   </ul>
