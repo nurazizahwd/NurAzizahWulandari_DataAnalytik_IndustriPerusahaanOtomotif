@@ -47,34 +47,4 @@
     <li>Memantau aktivitas pegawai dalam aplikasi.</li>
   </ul>
 <br>
-<h3> Beberapa Tampilan Aplikasi :</h3>
-<br>
-<table>
-<tr>
-    <td>
-    <small>Halaman List Menu</small>
-        <img src="https://i.ibb.co/JrcCyRc/Screenshot-297.png" alt="Screenshot-297" width="100%" border="0">
-    </td>
-    <td>
-    <small>Halaman Order Menu</small>
-        <img src="https://i.ibb.co/PTKJzLz/Screenshot-300.png" alt="Screenshot-300" width="100%" border="0">   
-    </td>
-</tr>
-<tr>
-    <td>
-        <small>Pemilihan Meja</small>
-        <img src="https://i.ibb.co/dkXqfxR/Screenshot-301.png" alt="Screenshot-301" width="100%" border="0">
-    </td>
-     <td>
-        <small>Halaman Data Transaksi</small>
-        <img src="https://i.ibb.co/TgQB2wR/Screenshot-302.png" alt="Screenshot-302" width="100%" border="0">
-    </td>
-</tr>
-<tr>
-    <td>
-        <small>Log Aktivitas</small>
-        <img src="https://i.ibb.co/Ws487dK/Screenshot-303.png" alt="Screenshot-303" width="100%" border="0">
-    </td>
-</tr>   
-</table> 
-<br><br>
+
