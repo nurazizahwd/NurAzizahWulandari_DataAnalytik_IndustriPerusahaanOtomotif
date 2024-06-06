@@ -49,13 +49,15 @@
 ## 💻 Panduan Analisis Menggunakan VSCode
 
 1. **Buat tabel data sesuai apa yang diinginkan**
+```
 misalnya:
 produksi
 penjualan
 model produk
 persediaan
+```
 
-2. **Unggah tabel ke VSCode "Open Folder"**
+3. **Unggah tabel ke VSCode "Open Folder"**
 ```
 DB_PORT=3306
 DB_DATABASE=app_kasir_restoran
