@@ -15,6 +15,7 @@
 <ul>
   <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.</p>
   <ul>
+    
 <h4>Pengumpulan Data:</h4>
     <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
     <li>Memastikan data yang dikumpulkan relevan dengan tujuan analisis.</li>
@@ -44,3 +45,45 @@
     <li>Bekerja sama dengan tim lain untuk mengimplementasikan solusi yang disarankan.</li>
   </ul>
   
+
+## 💻 Panduan Analisi Menggunakan VSCode
+
+1. **Buat tabel data sesuai apa yang diinginkan**
+```bash
+misalnya:
+<li>penjualan<i>
+<li>produksi<li>
+<li>model produk<li>
+<li>persediaan<li>
+
+git clone https://github.com/Arielanaskar/app_kasir_restoran.git
+cd app_kasir_restoran
+composer install
+copy .env.example rename->.env
+```
+2. **Buka ```.env``` lalu ubah baris berikut sesuaikan dengan databasemu yang ingin dipakai**
+```
+DB_PORT=3306
+DB_DATABASE=app_kasir_restoran
+DB_USERNAME=root
+DB_PASSWORD=
+```
+
+3. **Migration & Seeder Database SQL** (pastikan internet nyala, untuk mengunduh gambar dari setiap menu)
+```bash
+php artisan migrate
+php artisan db:seed
+```
+
+4. **Jalankan bash**
+```bash
+php artisan key:generate
+php artisan config:cache
+php artisan storage:link
+php artisan route:clear
+```
+
+5. **Jalankan website**
+```bash
+php artisan serve
+```
