@@ -46,15 +46,15 @@
   </ul>
   
 
-## 💻 Panduan Analisi Menggunakan VSCode
+## 💻 Panduan Analisis Menggunakan VSCode
 
 1. **Buat tabel data sesuai apa yang diinginkan**
 ```bash
 misalnya:
-<li>penjualan<i>
-<li>produksi<li>
-<li>model produk<li>
-<li>persediaan<li>
+produksi
+penjualan
+model produk
+persediaan
 
 git clone https://github.com/Arielanaskar/app_kasir_restoran.git
 cd app_kasir_restoran
