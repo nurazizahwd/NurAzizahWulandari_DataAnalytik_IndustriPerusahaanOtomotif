@@ -8,15 +8,19 @@
 </table>
 
 ----------------
-## Langkah-Langkah Data Analisis
+## Data Analisis
 <p align="center">
 </p>
 
 <h1 align="center">Data Analisis Perusahaan Industri Otomotif</h1>
 <ul>
-  <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.:</p>
+  <h4>Penjelasan</h4>
+  <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.</p>
   <ul>
-    <li>Melihat laporan penjualan secara harian, bulanan, maupun keseluruhan.</li>
+  
+## Langkah-Langkah Melakukan Data Analisis
+  <h4>Pengumpulan Data</h4>
+    <li></li>Pengumpulan Data:
     <li>Mengelola produk, termasuk menambah, menghapus, dan memperbarui informasi produk.</li>
     <li>Memantau aktivitas pegawai dalam aplikasi.</li>
   </ul>
