@@ -15,7 +15,6 @@
 <ul>
   <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.</p>
   <ul>
---------------
 <h4>Pengumpulan Data:</h4>
     <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
     <li>Memastikan data yang dikumpulkan relevan dengan tujuan analisis.</li>
