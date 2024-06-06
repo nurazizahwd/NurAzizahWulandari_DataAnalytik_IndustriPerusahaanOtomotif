@@ -20,9 +20,8 @@
   
 ## Langkah-Langkah Melakukan Data Analisis
   <h4>Pengumpulan Data</h4>
-    <li></li>Pengumpulan Data:
-    <li>Mengelola produk, termasuk menambah, menghapus, dan memperbarui informasi produk.</li>
-    <li>Memantau aktivitas pegawai dalam aplikasi.</li>
+    <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
+    <li>Memastikan data yang dikumpulkan relevan dengan tujuan analisis.</li>
   </ul>
 
   <h4>Kasir</h4>
