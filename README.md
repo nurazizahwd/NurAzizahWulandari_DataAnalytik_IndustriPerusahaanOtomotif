@@ -55,11 +55,12 @@ produksi
 penjualan
 model produk
 persediaan
+
 ```
 
 2. **Unggah tabel ke VSCode "Open Folder"**
 ```
-dengan catatan jika bentuk file tabel data wajib dalam bentuk "csv" agar bisa dibaca oleh sistem
+dengan catatan bentuk file tabel data wajib dalam bentuk "csv" agar bisa dibaca oleh sistem
 ```
 
 3. **Unggah file lain nya** (pastikan folder atau file anda sesuai dengan struktur proyek anda)
@@ -77,14 +78,18 @@ project/
 ```
 
 4. **Jalankan atau Running kode yang anda masukan di "analysis.py"**
-```bash
-php artisan key:generate
-php artisan config:cache
-php artisan storage:link
-php artisan route:clear
+```
+masukan kode dan lakukan sesuai dengan tahapan analisis pastikan secara urut agar bisa muncul data sampai visualisasi nya
+
 ```
 
 5. **Jalankan website**
-```bash
-php artisan serve
+```
+silahkan klik link yang muncul lalu website bisa anda gunakan (anda bisa meminta apa saja data atau visualisasi nya dalam website tersebut sesuai kode apa saja yang anda masukan di "Terminal"
+
+```
+6. **Jika anda ingin menjalankan website (VSCode tidak sengaja ke "Close"**
+```
+silahkan masukkan kode "python analysis.py di "Terminal"
+
 ```
