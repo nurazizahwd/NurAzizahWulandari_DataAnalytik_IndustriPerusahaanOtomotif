@@ -14,15 +14,7 @@
 
 <h1 align="center">Data Analisis Perusahaan Industri Otomotif</h1>
 <ul>
-<li>Front End : HTML, Bootstrap</li>
-<li>Backend : Laravel PHP FrameWork</li>
-<li>Javascript : Native Javascript, & Jquery</li>
-<li>Bootstrap Theme By <a href='https://themes.3rdwavemedia.com/'>[Xiaoying Riley]</a></li>
-</ul>
-<br/>
-<h3>Fitur Aplikasi :</h3>
-<h4>Manager</h4>
-  <p>Sebagai seorang manager, Anda memiliki kontrol penuh atas aplikasi ini. Fitur-fitur yang tersedia untuk level hak akses manager antara lain:</p>
+  <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.:</p>
   <ul>
     <li>Melihat laporan penjualan secara harian, bulanan, maupun keseluruhan.</li>
     <li>Mengelola produk, termasuk menambah, menghapus, dan memperbarui informasi produk.</li>
