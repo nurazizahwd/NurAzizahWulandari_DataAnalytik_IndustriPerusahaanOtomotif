@@ -19,26 +19,11 @@
   <ul>
   
 ## Langkah-Langkah Melakukan Data Analisis
-  <h4>Pengumpulan Data</h4>
+  <h4>Pengumpulan Data:</h4>
     <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
     <li>Memastikan data yang dikumpulkan relevan dengan tujuan analisis.</li>
   </ul>
-
-  <h4>Kasir</h4>
-  <p>Sebagai seorang kasir, Anda bertanggung jawab untuk menangani transaksi penjualan. Berikut adalah fitur-fitur yang tersedia untuk level hak akses kasir:</p>
-  <ul>
-    <li>Melakukan transaksi penjualan dengan input produk, kuantitas, dan meja.</li>
-    <li>Mencetak struk pembayaran untuk pelanggan.</li>
-    <li>Melihat riwayat transaksi penjualan pribadi.</li>
-    <li>Memperbarui status pembayaran untuk transaksi tertentu.</li>
+  <h4>Pembersihan Data:</h4>
+    <li>Membersihkan data dari kesalahan, duplikasi, dan inkonsistensi.</li>
+    <li>MMengatasi data yang hilang dan memastikan data dalam format yang tepat.</li>
   </ul>
-
-  <h4>Admin</h4>
-  <p>Sebagai seorang admin, Anda memiliki peran penting dalam pengaturan sistem aplikasi. Fitur-fitur yang tersedia untuk level hak akses admin meliputi:</p>
-  <ul>
-    <li>Mengelola akun pegawai, termasuk membuat, menghapus, dan memperbarui informasi pegawai.</li>
-    <li>Mengatur level hak akses pegawai.</li>
-    <li>Memantau aktivitas pegawai dalam aplikasi.</li>
-  </ul>
-<br>
-
