@@ -14,7 +14,6 @@
 
 <h1 align="center">Data Analisis Perusahaan Industri Otomotif</h1>
 <ul>
-  <h4>Penjelasan</h4>
   <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.</p>
   <ul>
 
