@@ -17,7 +17,7 @@
   <h4>Penjelasan</h4>
   <p>Sebagai seorang Data Analisis, Anda memiliki kontrol penuh atas data ini dan perlu teliti dalam melakukan analisis.</p>
   <ul>
-  
+
 ## Langkah-Langkah Melakukan Data Analisis
 <h4>Pengumpulan Data:</h4>
     <li>Mengumpulkan data dari berbagai sumber (database, web scraping, survei, dll.)</li>
@@ -25,7 +25,7 @@
   </ul>
 <h4>Pembersihan Data:</h4>
     <li>Membersihkan data dari kesalahan, duplikasi, dan inkonsistensi.</li>
-    <li>Mengatasi data yang hilang dan memastikan data dalam format yang tepat.</li>
+    <li>Mengatasi data yang hilang dan memastikan data dalam format yang tepat.    </li>
   </ul>
  <h4>Analisis Eksploratif:</h4>
     <li>Melakukan analisis statistik deskriptif untuk memahami pola dalam data.</li>
