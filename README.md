@@ -49,19 +49,13 @@
 ## 💻 Panduan Analisis Menggunakan VSCode
 
 1. **Buat tabel data sesuai apa yang diinginkan**
-```bash
 misalnya:
 produksi
 penjualan
 model produk
 persediaan
 
-git clone https://github.com/Arielanaskar/app_kasir_restoran.git
-cd app_kasir_restoran
-composer install
-copy .env.example rename->.env
-```
-2. **Buka ```.env``` lalu ubah baris berikut sesuaikan dengan databasemu yang ingin dipakai**
+2. **Unggah tabel ke VSCode "Open Folder"**
 ```
 DB_PORT=3306
 DB_DATABASE=app_kasir_restoran
