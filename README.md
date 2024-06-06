@@ -13,7 +13,6 @@
 </p>
 
 <h1 align="center">Data Analisis Perusahaan Industri Otomotif</h1>
-<h3>Langkah-Langkah Data Anasis:</h3>
 <ul>
 <li>Front End : HTML, Bootstrap</li>
 <li>Backend : Laravel PHP FrameWork</li>
