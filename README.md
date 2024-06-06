@@ -57,21 +57,26 @@ model produk
 persediaan
 ```
 
-3. **Unggah tabel ke VSCode "Open Folder"**
+2. **Unggah tabel ke VSCode "Open Folder"**
 ```
-DB_PORT=3306
-DB_DATABASE=app_kasir_restoran
-DB_USERNAME=root
-DB_PASSWORD=
+dengan catatan jika bentuk file tabel data wajib dalam bentuk "csv" agar bisa dibaca oleh sistem
 ```
 
-3. **Migration & Seeder Database SQL** (pastikan internet nyala, untuk mengunduh gambar dari setiap menu)
-```bash
-php artisan migrate
-php artisan db:seed
+3. **Unggah file lain nya** (pastikan folder atau file anda sesuai dengan struktur proyek anda)
+```
+project/
+|-- templates/
+|   |-- index.html
+|-- data/
+|   |-- model_mobil.csv
+|   |-- produksi_tahunan.csv
+|   |-- penjualan_tahunan.csv
+|   |-- persediaan_mobil.csv
+|-- analysis.py
+
 ```
 
-4. **Jalankan bash**
+4. **Jalankan atau Running kode yang anda masukan di "analysis.py"**
 ```bash
 php artisan key:generate
 php artisan config:cache
